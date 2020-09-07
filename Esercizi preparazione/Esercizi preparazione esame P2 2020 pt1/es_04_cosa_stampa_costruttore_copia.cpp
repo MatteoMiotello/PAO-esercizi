@@ -25,6 +25,6 @@ int main() {
 C(0) UNO
 C(0) DUE
 Cc(0) int() ~C TRE
-Cc(0) int() C(3) Cc(3) ~C ~C QUATTRO
+Cc(0) int() C(3) ~C QUATTRO
 ~C ~C 
 */
